@@ -15,7 +15,7 @@ a {
 }
 .header {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(headerbg.png);
+    url(Images/headerbg.png);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -203,7 +203,7 @@ a {
 }
 .contact {
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(contactbg.png);
+    url(Images/contactbg.png);
   background-position: center;
   background-size: cover;
   overflow: auto;
